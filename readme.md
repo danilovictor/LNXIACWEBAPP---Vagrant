@@ -109,13 +109,13 @@ http://192.168.0.120
 
 ## 📌 Objetivos do Projeto
 
-Demonstrar infraestrutura como código
+Infraestrutura como código
 
-Facilitar ambientes replicáveis de desenvolvimento
+Ambientes replicáveis de desenvolvimento
 
 Automatizar deploys básicos
 
-Ensinar Vagrant + VirtualBox
+Deploy Web APP
 
 Criar base para pipelines CI/CD
 
